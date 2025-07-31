@@ -1,0 +1,1 @@
+import React from 'react'; import Countdown from '../components/Countdown'; import Footer from '../components/Footer'; const Home = () => <main><h1>Welcome to PeneCoin</h1><Countdown /><Footer /></main>; export default Home;

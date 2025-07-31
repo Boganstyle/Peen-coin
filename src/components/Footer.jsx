@@ -1,0 +1,1 @@
+const Footer = () => <footer><p>Follow us on X, Instagram, Facebook</p></footer>; export default Footer;
